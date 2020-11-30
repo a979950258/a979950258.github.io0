@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'simkai';
+   font-display: swap;
+   src: url('simkai/font.ttf');
+}
+@font-face {
+   font-family: '汉标西红市首字体';
+   font-display: swap;
+   src: url('汉标西红市首字体/font.ttf');
+}
